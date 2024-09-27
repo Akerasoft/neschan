@@ -192,7 +192,7 @@ private:
     uint8_t _prev_prg_mode;                     // previous prg mode
 };
 
-// This mapper is (C) Copyright 2023 Robert Kolski
+// This mapper is (C) Copyright 2023-2024 Akerasoft
 // Open source license - no warranty of any kind.
 // MIT License
 

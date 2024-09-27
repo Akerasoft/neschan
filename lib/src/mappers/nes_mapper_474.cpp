@@ -1,6 +1,6 @@
 #include "stdafx.h"
 
-// This file is (C) Copyright 2023 Robert Kolski
+// This file is (C) Copyright 2023-2024 Akerasoft
 // Open source license - no warranty of any kind.
 // MIT License
 
